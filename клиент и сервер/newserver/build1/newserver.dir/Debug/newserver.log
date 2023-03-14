@@ -1,0 +1,6 @@
+﻿  Automatic MOC and UIC for target newserver
+  mocs_compilation_Debug.cpp
+  main.cpp
+  newserver.cpp
+  Создание кода...
+  newserver.vcxproj -> D:\newserver\build1\Debug\newserver.exe
